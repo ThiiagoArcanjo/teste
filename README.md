@@ -1,4 +1,4 @@
 #Teste de git e github
 
-![./teste.gif](teste)
+![GIF](teste.gif)
 Esse repositório é apenas um teste de git e github
