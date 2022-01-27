@@ -1,4 +1,4 @@
-#Teste de git e github.
+#Teste de git e github..
 
 ![GIF](teste.gif)
 
